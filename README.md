@@ -1,6 +1,6 @@
 # teleprompter
 
-> An electron-vue project
+> An electro1n-vue project
 
 #### Build Setup
 
